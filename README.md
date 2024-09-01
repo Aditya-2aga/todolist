@@ -10,3 +10,5 @@ Currently, two official plugins are available:
 
 
 Todo List is an important project
+
+Created using React
